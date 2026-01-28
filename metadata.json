@@ -1,0 +1,5 @@
+{
+  "name": "QL_HS",
+  "description": "Hệ thống quản lý lớp học dành cho giáo viên chủ nhiệm và phụ huynh/học sinh với kiến trúc Data Provider tách biệt.",
+  "requestFramePermissions": []
+}
